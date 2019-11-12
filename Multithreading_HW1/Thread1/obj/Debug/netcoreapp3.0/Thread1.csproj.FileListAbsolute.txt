@@ -1,0 +1,11 @@
+C:\Users\annafix\source\repos\Thread1\Thread1\bin\Debug\netcoreapp3.0\Thread1.exe
+C:\Users\annafix\source\repos\Thread1\Thread1\bin\Debug\netcoreapp3.0\Thread1.deps.json
+C:\Users\annafix\source\repos\Thread1\Thread1\bin\Debug\netcoreapp3.0\Thread1.runtimeconfig.json
+C:\Users\annafix\source\repos\Thread1\Thread1\bin\Debug\netcoreapp3.0\Thread1.runtimeconfig.dev.json
+C:\Users\annafix\source\repos\Thread1\Thread1\bin\Debug\netcoreapp3.0\Thread1.dll
+C:\Users\annafix\source\repos\Thread1\Thread1\bin\Debug\netcoreapp3.0\Thread1.pdb
+C:\Users\annafix\source\repos\Thread1\Thread1\obj\Debug\netcoreapp3.0\Thread1.csprojAssemblyReference.cache
+C:\Users\annafix\source\repos\Thread1\Thread1\obj\Debug\netcoreapp3.0\Thread1.AssemblyInfoInputs.cache
+C:\Users\annafix\source\repos\Thread1\Thread1\obj\Debug\netcoreapp3.0\Thread1.AssemblyInfo.cs
+C:\Users\annafix\source\repos\Thread1\Thread1\obj\Debug\netcoreapp3.0\Thread1.dll
+C:\Users\annafix\source\repos\Thread1\Thread1\obj\Debug\netcoreapp3.0\Thread1.pdb
